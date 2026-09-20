@@ -44,4 +44,4 @@ The primary goal of SunCart is to provide a seamless and secure platform for use
 ## 👥 Authors
 *   **Shajib Chanda** - *Final Year BSc in CSE Student*
 
-Developed with ❤️ by Shajib Chanda.
+Developed by Shajib Chanda & Abu Sufian.
